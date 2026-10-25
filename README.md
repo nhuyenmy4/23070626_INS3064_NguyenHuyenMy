@@ -7,3 +7,6 @@ INS3064 - Homework 05
 
 INS3064 - Homework 06
 - Demo Video: https://youtu.be/ctwXyynnkh8
+
+INS3064 - Homework 07
+- Demo Video: https://youtu.be/GjX8ORbUMhY
